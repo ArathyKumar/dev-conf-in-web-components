@@ -1,0 +1,39 @@
+body{
+  max-width: 1440px;
+  margin: auto;
+}
+
+nav {
+  background-color: #8e83e4;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+  height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0px 32px;
+}
+
+nav img {
+  width: auto;
+  height: 32px;
+}
+
+main{
+  padding: 80px 32px;
+}
+
+h1{
+  font-family: "Red Hat Text", Helvetica, Arial, sans-serif;
+  font-weight: 500;
+  color: #674ca7;
+  margin-bottom: 40px;
+}
+
+h2{
+  font-family: "Red Hat Text", Helvetica, Arial, sans-serif;
+  font-weight: 500;
+}
