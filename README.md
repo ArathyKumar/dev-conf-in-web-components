@@ -31,6 +31,6 @@ Contributions are welcome! If you'd like to improve the documentation, suggest n
 ## Acknowledgements
 I would like to express my sincere gratitude to the following:
 
-- DevConf.in: For providing the opportunity to present this session on Web Components and creating an excellent platform for knowledge sharing.
+- DevConf.IN: For providing the opportunity to present this session on Web Components and creating an excellent platform for knowledge sharing.
 - Web Components Community: For their continued efforts in developing the standards and tools that enable the creation of framework-independent, reusable components.
 - You, the Learners and Developers: Finally, thank you to all the developers, learners, and contributors who have engaged with this content. Your feedback, questions, and insights help improve the quality and relevance of this work, and I'm grateful for the opportunity to share and learn from the community.
