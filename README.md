@@ -6,7 +6,7 @@ In modern web development, there’s a growing demand for flexible, reusable com
 
 This session demonstrates how Web Components can be implemented in real-world scenarios, showing their benefits for interoperability, maintainability, and scalability. Whether you're using Angular, React, Vue, or no framework at all, Web Components can help you create UI elements that work seamlessly across platforms.
 
-## Installation
+## Quick Start
 To get started with the code samples, clone this repository to your local machine:
 
 ```
