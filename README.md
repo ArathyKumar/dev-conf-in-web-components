@@ -18,7 +18,7 @@ Open the web-component-demo.html file in a browser to see the Web Components in 
 ### Additional dependencies
 None
 
-## Contributing
+## Contribution
 Contributions are welcome! If you'd like to improve the documentation, suggest new components, or report issues, feel free to open an issue or submit a pull request.
 
 - Fork the repository.
